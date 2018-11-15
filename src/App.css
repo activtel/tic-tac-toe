@@ -1,0 +1,13 @@
+.container {
+  width: 550px;
+  margin-right: auto;
+  margin-left: auto;
+  height: 100vh;
+  background-color: #eeeeee;
+}
+
+header {
+  background-color: #212121;
+  color: #fff;
+  padding: 25px 60px;
+}

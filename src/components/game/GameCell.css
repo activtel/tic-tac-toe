@@ -1,0 +1,12 @@
+.gameCell {
+  height: 90px;
+  width: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #eeeeee;
+  
+}
+
+
+
